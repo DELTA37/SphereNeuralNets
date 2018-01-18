@@ -1,0 +1,17 @@
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*data*
+faces
+*.npz
+*.pt
+*/raw
+*/processed
+*.zip
+*/dataset
+*.gz
+*/data
+*.csv
+*.pyc
+*/*/raw
